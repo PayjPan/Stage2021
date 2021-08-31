@@ -1,0 +1,14 @@
+baseurl = "https://tmpsite.netlify.com"
+DefaultContentLanguage = "fr"
+title = "tmp title"
+theme = "beautifulhugo"
+[Parms]
+subtitle = "tmp sub title"
+dateFormat = "2 January 2006"
+[Author]
+name = "Guillaume Peltier"
+[[menu.main]]
+name = "Ethique"
+url = ""
+weight = 1
+
